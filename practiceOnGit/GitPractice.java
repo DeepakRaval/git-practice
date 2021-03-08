@@ -11,6 +11,7 @@ if(c<3){
 	return;
 }
 		System.out.println("Hello i am using GIT");
+		System.out.println("changes from romote repository");
 	}
 
 }
