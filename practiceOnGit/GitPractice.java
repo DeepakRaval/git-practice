@@ -6,6 +6,7 @@ static int c = 0;
 if(c<3){
 	c++;
 	main(null);
+	//inserting from eclipse
 	
 }else{
 	return;
